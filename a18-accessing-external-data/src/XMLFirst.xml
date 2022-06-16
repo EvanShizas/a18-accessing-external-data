@@ -1,0 +1,18 @@
+<class>
+<!--This is the database for student information. --> 
+	<student>
+		<name>Oscar Lam</name>
+		<gender>male</gender>
+		<age>17</age>
+	</student>
+        <student>
+		<name>Alvin Chan</name>
+		<gender>male</gender>
+		<age>18</age>
+	</student>
+   <student>
+		<name>Hammad Hassan</name>
+		<gender>male</gender>
+		<age>18</age>
+	</student>
+</class>
