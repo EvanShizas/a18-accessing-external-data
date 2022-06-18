@@ -1,18 +1,31 @@
+<!--
+This is the database for student information.
+  
+ modified     20220617
+ date         20220616
+ @filename    XMLFirst.xml
+ @author      Oscar Lam
+ @author 	  Hammad Hassan 
+ @author 	  Alvin Chan
+ @author 	  Evan Shizas  
+ @version     1.0
+ @see         Unit 3 activity 5
+--> 
+
 <class>
-<!--This is the database for student information. --> 
 	<student>
 		<name>Oscar Lam</name>
-		<gender>male</gender>
+		<gender>Male</gender>
 		<age>17</age>
 	</student>
-        <student>
+	<student>
 		<name>Alvin Chan</name>
-		<gender>male</gender>
+		<gender>Male</gender>
 		<age>18</age>
 	</student>
-   <student>
+    <student>
 		<name>Hammad Hassan</name>
-		<gender>male</gender>
+		<gender>Male</gender>
 		<age>18</age>
 	</student>
 </class>
