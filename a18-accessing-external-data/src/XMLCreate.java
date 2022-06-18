@@ -7,13 +7,14 @@
  * @author      Evan Shizas
  * @author      Alvin Chan
  * @author      Hammad Hassan
- * @author		Oscar Lam
+ * @author      Oscar Lam
  * @version     1.0.0
  * @see         A18 - Accessing External Data
  */
 
 import java.io.*;
 import javax.xml.parsers.ParserConfigurationException;
+import javax.xml.transform.TransformerException;
 
 public class XMLCreate {
 	public static void main(String[] args) throws ParserConfigurationException, TransformerException {
