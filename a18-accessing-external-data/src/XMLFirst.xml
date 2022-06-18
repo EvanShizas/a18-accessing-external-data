@@ -1,23 +1,18 @@
 <class>
-<!-- This is the database for students in a class that includes their contact information. -->
+<!--This is the database for student information. --> 
 	<student>
-		<name>Evan Shizas</name>
-		<address>15 Wallingford Rd.</address>
-		<phone>416-967-1111</phone>
+		<name>Oscar Lam</name>
+		<gender>Male</gender>
+		<age>17</age>
 	</student>
 	<student>
 		<name>Alvin Chan</name>
-		<address>16 Wallingford Rd.</address>
-		<phone>416-967-1112</phone>
+		<gender>Male</gender>
+		<age>18</age>
 	</student>
-	<student>
+    <student>
 		<name>Hammad Hassan</name>
-		<address>17 Wallingford Rd.</address>
-		<phone>416-967-1113</phone>
-	</student>
-	<student>
-		<name>Oscar Lam</name>
-		<address>18 Wallingford Rd.</address>
-		<phone>416-967-1114</phone>
+		<gender>Male</gender>
+		<age>18</age>
 	</student>
 </class>
